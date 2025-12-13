@@ -45,4 +45,4 @@ This analysis will use Biodiversity Intactness Index (BII) to measure and visual
 U.S. Census Bureau. (2023). TIGER/Line shapefiles: Arizona county subdivisions [Data set]. https://www2.census.gov/geo/tiger/TIGER2023/COUSUB/tl_2023_04_cousub.zip|
 
 Acknowledgement: 
-The code and content for analysis comes from the EDS 220 course in the Bren School of Environmental Science and Managment Master of Environmental Data Science Program. This course is led by Carmen Galaz García and co-led by Annie Adams.
+The code and content for this analysis comes from the EDS 220 course in the Bren School of Environmental Science and Managment Master of Environmental Data Science Program. This course is led by Carmen Galaz García and co-led by Annie Adams.
